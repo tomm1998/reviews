@@ -8,3 +8,5 @@ We’ll evaluate platform, architecture, testing, and problem solving-knowledge.
 
 What you’ll need:
 - Java 11 and Android Studio configured
+
+<img src="https://user-images.githubusercontent.com/52042213/190025860-a45fdde5-bb47-4c2a-a7b3-e016226c4a34.png" width="220" height="460" />
